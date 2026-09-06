@@ -1,0 +1,3 @@
+The original Limitless Vehicle does not support mob pilots. That's why I created this add‑on.
+
+Biopiloted Limitless Vehicle adds mob‑pilot support for Limitless Vehicle, with integration for Hundred Years' War mod command system. Originally, these vehicles could only be controlled by players. With this add‑on, Minecraft mobs are able to occupy vehicle cockpits and drive vehicles autonomously. Mobs can steer and move the vehicles on their own. Command units from Hundred Years' War are capable of ordering their subordinates to enter and pilot vehicles. No new vehicle entities are added; this mod only extends piloting access for existing vehicles.
