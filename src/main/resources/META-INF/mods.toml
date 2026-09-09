@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="soldier_vehicle_link"
+version="1.0.0-r39"
+displayName="Biopiloted Limitless Vehicle（BPLV）"
+authors="kaoji995"
+description='''让生物利用永无止境 载具端口驾驶、移动和攻击；移动与攻击意图来自生物自身 AI，不接管其他模组的原生载具。'''
+logoFile="logo.png"
+[[dependencies.soldier_vehicle_link]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.0,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.soldier_vehicle_link]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
